@@ -1,6 +1,7 @@
 .a{
-border:10px solid red;
+border:3px solid red;
 background-color:red;
+padding:5px;
 }
 
 .b{
@@ -12,9 +13,27 @@ text-align:center;
 border:1px solid white;
 border-width:10%;
 float:right;
+padding:5px 5px 5px 5px;
 }
 
- }
+.d{ width: 40px;
+    height: 30px;
+    background-color:white;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.l{
+    font-size:20px;
+    font-weight:bold;
+    background-color: white;
+    color:red;
+    text-align: center;
+margin-left:10px;
+float:left;
+margin-top:2px;
+ }  
+ 
   body {
       margin: 0;
   }
@@ -22,6 +41,7 @@ float:right;
 margin-left:250px;
 border:1px solid #d6d1d1;
 width:67%;
+margin-top:20px;
 }
 .t{
 display:inline-block;
@@ -38,6 +58,7 @@ font-weight:bold;
 .o{
 margin-left:165px;
 border:1px solid red;
+background-color:red;
 width:10%;
 }
 .s{
