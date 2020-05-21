@@ -1,0 +1,117 @@
+.a{
+border:20px solid black;
+background-color:black;
+}
+.b{
+float:right;
+padding:5px 15px 5px 5px;
+text-align:center;
+}
+.c{
+border:2px solid white;
+border-width:10%;
+float:right;
+padding:2px 2px 2px 2px;
+}
+#b{
+background-image: url("https://www.nydailynews.com/resizer/Cc3lPgaM_01mFBwy_ZSV2P2557s=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/PTHIHN5WMZEFDFLF5YRQCOQVMY.jpg");
+height:450px;
+padding-top:50px;
+color:#fff;
+margin-top:25;
+background-size:100% 100%
+}
+#c{
+background-color:rgba(0,0,0,0.7);
+max-width:600px;
+padding:20px;
+margin-top:10px;
+}
+.logo {
+  font-size: 30px;
+  font-weight: bold;
+  background-color: white;
+  height: 70px;
+  width: 70px;
+  color: black;
+  border-radius: 50%;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;  
+  padding:40px;
+}
+.w{
+ display: inline-block;  
+padding:5px; 
+margin-bottom: 10px;
+ background-color:#ffffff;
+ border: 2px solid #ffffff;
+ text-align: center;
+ color:#666;
+ margin-top:10px;
+font-size:20px;
+font-weight:bold;
+margin-left:100px;
+border-radius:5%;
+box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16); 
+}
+.q{
+font-size:20px;
+font-weight:bold;
+color:black;
+padding:120px;"
+}
+.e{
+ display: inline-block;  
+padding:5px; 
+margin-bottom: 10px;
+ border: 2px solid #ffffff;
+ text-align: center;
+ color:#192f60;
+ margin-top:10px;
+font-size:20px;
+font-weight:bold;
+margin-left:20px;
+border-radius:2%;
+box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+background-color: #ffffff;
+ font-family: Poppins;
+  font-size: 18px; 
+align:left;
+}
+.k{
+vertical-align:middle;
+}
+#d{
+margin-top:30px;
+}
+.g{
+border:10px solid black;
+margin-top:90px;
+max-width:400px;
+}
+.v{
+ display: inline-block;  
+padding:5px; 
+margin-bottom: 10px;
+ border: 2px solid #ffffff;
+ text-align: center;
+ color:#192f60;
+ margin-top:10px;
+font-weight:bold;
+margin-left:20px;
+border-radius:2%; 
+box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+background-color: #ffffff;
+ font-family: Poppins;
+  font-size: 18px;
+
+align:left;
+}
+.z{
+vertical-align:middle;
+}
+#y{
+margin-top:30px;
+}
